@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#1463F5"
+  android_text:
+    color: "#FFFFFF"
+    text: "Search App" # Text to be displayed on the splash screen for Android
+  ios_text:
+    color: "#FFFFFF"
+    text: "Search App"
+  color_dark: "#1463F5"
+
+  android_12:
+
+  android: true
+  ios: true
