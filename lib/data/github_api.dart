@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-import '../../core/models/repo_model.dart';
+import '../core/models/repo_model.dart';
 
 class GitHubApi {
   static const _baseUrl = 'https://api.github.com';

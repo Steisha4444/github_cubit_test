@@ -1,7 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+import '../../../../core/models/repo_model.dart';
 import '../../../../domain/github_usecase.dart';
-import '../../../models/repo_model.dart';
 
 part 'favorites_state.dart';
 

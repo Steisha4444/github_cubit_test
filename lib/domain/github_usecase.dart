@@ -1,6 +1,6 @@
-import '../data/api/github_api.dart';
+import '../core/models/repo_model.dart';
+import '../data/github_api.dart';
 import '../data/storage/hive_storage.dart';
-import '../presentation/models/repo_model.dart';
 
 class GithubUsecase {
   final _db = HiveStorage();

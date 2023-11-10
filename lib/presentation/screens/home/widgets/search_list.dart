@@ -2,7 +2,7 @@ import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../../models/repo_model.dart';
+import '../../../../core/models/repo_model.dart';
 import '../../../widgets/empty_list_text.dart';
 import '../../../widgets/repo_tile.dart';
 import '../cubit/home_cubit.dart';

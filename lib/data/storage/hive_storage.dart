@@ -1,6 +1,6 @@
 import 'package:hive/hive.dart';
 
-import '../../presentation/models/repo_model.dart';
+import '../../core/models/repo_model.dart';
 
 class HiveStorage {
   HiveStorage() {

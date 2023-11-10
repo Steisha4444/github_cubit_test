@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../../core/app_theme.dart';
-import '../../../models/repo_model.dart';
+import '../../../../core/models/repo_model.dart';
 import '../../../widgets/empty_list_text.dart';
 import '../../../widgets/repo_tile.dart';
 import '../../favorites/cubit/favorites_cubit.dart';
